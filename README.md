@@ -25,7 +25,7 @@ Material Design play/pause Drawable with animation, compatible with Android 4.0+
 Gradle:
 
 ```gradle
-compile 'me.zhanghai.android.materialplaypausedrawable:library:1.0.0'
+implementation 'me.zhanghai.android.materialplaypausedrawable:library:1.0.0'
 ```
 
 ## Usage
