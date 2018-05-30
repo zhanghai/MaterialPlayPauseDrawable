@@ -6,7 +6,7 @@ Material Design play/pause Drawable with animation, compatible with Android 4.0+
 
 ## Why MaterialPlayPauseDrawable?
 
-- Correct play icon that is the same as the one in Material Design Icons, not horizontally stretched.
+- Correct play icon that is the same as the one in Material Design Icons, not horizontally stretched ([1](https://github.com/alexjlockwood/adp-path-morph-play-to-pause), [2](https://github.com/OHoussein/android-material-play-pause-view)).
 - Robust state handling that always animates to the correct final state without visual glitch.
 - Can be used flexibly as `Drawable`, `ImageView` or `ImageButton`.
 - `Drawable` comes with the intrinsic size of 24dp.
