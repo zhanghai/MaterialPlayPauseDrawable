@@ -16,7 +16,7 @@ Material Design play/pause Drawable with animation, compatible with Android 4.0+
 
 <a href="https://play.google.com/store/apps/details?id=me.zhanghai.android.materialplaypausedrawable.sample" target="_blank"><img alt="Google Play" height="90" src="https://play.google.com/intl/en_US/badges/images/generic/en_badge_web_generic.png"/></a>
 
-[Sample APK](//github.com/DreaminginCodeZH/MaterialPlayPauseDrawable/releases/download/v1.0.0/sample-release.apk)
+[Sample APK](//github.com/zhanghai/MaterialPlayPauseDrawable/releases/download/v1.0.0/sample-release.apk)
 
 ![Sample app](preview/sample.gif)
 

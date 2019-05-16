@@ -12,5 +12,5 @@
     <string name="library_name">MaterialPlayPauseDrawable</string>
     <string name="library_version_format">Version %1$s</string>
     <string name="library_credit">Zhang Hai 2018</string>
-    <string name="library_github"><a href="https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawable">View on GitHub</a></string>
+    <string name="library_github"><a href="https://github.com/zhanghai/MaterialPlayPauseDrawable">View on GitHub</a></string>
 </resources>
